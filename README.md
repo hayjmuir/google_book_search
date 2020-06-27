@@ -26,3 +26,6 @@ Database Used:
 
 Npm Packages Used:
 1. Axios
+
+
+[Heroku Deployed](https://secret-mesa-47262.herokuapp.com/)
